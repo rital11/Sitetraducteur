@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Site Traducteur D8</title>
+  <style>
+    body { font-family: Arial; text-align: center; padding: 20px; }
+    img { width: 200px; border-radius: 10px; }
+    .btn { padding: 10px 20px; background: #ff6600; color: white; text-decoration: none; border-radius: 5px; }
+  </style>
+</head>
+<body>
+  <h1>Traducteur Intelligent D8</h1>
+  <img src="image-du-produit.jpg" alt="Traducteur D8">
+  <p>Traduction en ligne et hors ligne, 10 jours de batterie, apprentissage des langues et plus !</p>
+  <a class="btn" href="#">Acheter maintenant</a>
+</body>
+</html>
